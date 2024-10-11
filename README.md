@@ -30,11 +30,11 @@ ____
 *Запустить файл main.java*   
 ____  
 **Пример использования**  
-![image](https://github.com/user-attachments/assets/95f1ef80-6191-48d4-8b41-c0f3a264f772)  
-![image](https://github.com/user-attachments/assets/b7efd068-7313-4b86-904b-55e32c8294b3)  
+![output](https://github.com/user-attachments/assets/ebe47153-a093-44c0-a7a2-49119f28763a)
 ____  
 **Результаты прогона тестов**  
-![image](https://github.com/user-attachments/assets/013465ef-6600-4254-b496-23fb5271e7ce)  
+![изображение](https://github.com/user-attachments/assets/2a7ba86f-8de7-4bce-a670-6358180fee1c)
+
 
 
 
